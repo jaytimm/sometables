@@ -8,7 +8,7 @@ Installation
 
 ``` r
 library(devtools)
-devtools::install_github("jaytimm/tables")
+devtools::install_github("jaytimm/sometables")
 library(tables) 
 ```
 
